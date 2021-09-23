@@ -8,7 +8,7 @@ get_header();?>
 				<div class="container">
 					<div class="row">
 						<div id="primary" class="col-xs-12 col-md-9">
-							<h1>Blogg</h1>
+							<h1>BLOGG!</h1>
 							<article>
 								<img src="http://localhost/grupprojekt/wordpress/wp-content/uploads/2021/09/breakfast-1835478_640.jpg" />
 								<h2 class="title">
